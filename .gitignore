@@ -1,0 +1,15 @@
+# Ignore Mac/System files
+.DS_Store
+
+# Backend Ignores
+backend/target/
+backend/.mvn/wrapper/
+backend/mvnw
+backend/mvnw.cmd
+backend/.idea/
+backend/*.iml
+
+# Frontend Ignores
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
